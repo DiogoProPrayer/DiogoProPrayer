@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiogoProPrayer
 - 👀 I’m interested in technology in general
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on startup projects
 - 📫 How to reach me ........ here
 
