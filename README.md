@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DiogoProPrayer
-- 👀 I’m interested in technology in general
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on startup projects
-- 📫 How to reach me ........ here
+- 👋 Hi, I’m Diogo
+- 🏎️ Formula Student
+- 💻 Autonomous Systems Department Leader
 
 <!---
 DiogoProPrayer/DiogoProPrayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
